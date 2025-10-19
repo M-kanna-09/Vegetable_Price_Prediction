@@ -109,6 +109,4 @@ Special thanks to open-source contributors and datasets that made this project p
 
 ---
 
-Would you like me to include a **`requirements.txt`** file (listing Python libraries) and **add sample output screenshots section** in the README?  
-That will make your GitHub project look even more professional.
 
